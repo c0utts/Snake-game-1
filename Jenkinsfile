@@ -1,4 +1,4 @@
-node('ubuntu-appsever')
+node('linode_appserver')
 {
     def app
     stage('Clone Git')
